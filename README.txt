@@ -26,4 +26,4 @@ Credits:
         Responsive Tools (github.com/ajlkn/responsive-tools)
 
 Original templates by AJ (aj@lkn.io | @ajlkn)
-Customized and maintained by Cleo Lepart
+Customized and maintained by Cleo Lepart 2024
